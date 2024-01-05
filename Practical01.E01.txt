@@ -1,0 +1,50 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 01
+Evidence Number: 01
+Unique description: Ritesh's PD
+Examiner: RG
+Notes: Practical no 01
+
+--------------------------------------------------------------
+
+Information for D:\Ritesh G\Practical01:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 975
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 15,677,440
+[Physical Drive Information]
+ Drive Model: Mass Storage Device USB Device
+ Drive Serial Number: 125C20100726
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 7655 MB
+ Sector count:    15677440
+[Computed Hashes]
+ MD5 checksum:    529c270d3f546a02d5e9d96a52a7f41b
+ SHA1 checksum:   1391dbc4f33d686959e43336ae48fbb94172f3ad
+
+Image Information:
+ Acquisition started:   Wed Oct 11 09:48:46 2023
+ Acquisition finished:  Wed Oct 11 09:55:45 2023
+ Segment list:
+  D:\Ritesh G\Practical01.E01
+  D:\Ritesh G\Practical01.E02
+  D:\Ritesh G\Practical01.E03
+  D:\Ritesh G\Practical01.E04
+  D:\Ritesh G\Practical01.E05
+  D:\Ritesh G\Practical01.E06
+
+Image Verification Results:
+ Verification started:  Wed Oct 11 09:55:45 2023
+ Verification finished: Wed Oct 11 09:56:57 2023
+ MD5 checksum:    529c270d3f546a02d5e9d96a52a7f41b : verified
+ SHA1 checksum:   1391dbc4f33d686959e43336ae48fbb94172f3ad : verified
